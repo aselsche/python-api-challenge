@@ -1,7 +1,7 @@
 **python-api-challenge**
 
 In the Python API Challenege, I created a Python script to visualize the weather of 600+ cities across the world of varying distance from the equator. To accomplish this, I utlized Python library, the OpenWeatherMap API to create a representative model of weather across world cities.
-The analysis can be found here: [Jupyter Lab](./WeatherPy.ipynb)
+The analysis can be found here: [Jupyter Notebook](WeatherPy.ipynb)
 
 
 After building the data set of the cities, a series of scatter plots were built to showcase the following relationships:
