@@ -1,4 +1,4 @@
-**python-api-challenge**
+**Python-Api-Challenge Summary**
 
 In the Python API Challenege, I created a Python script to visualize the weather of 600+ cities across the world of varying distance from the equator. To accomplish this, I utlized Python library, the OpenWeatherMap API to create a representative model of weather across world cities.
 
